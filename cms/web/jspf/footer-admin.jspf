@@ -1,0 +1,33 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!-- footer-->
+<footer>
+    <div class="container-fluid pt-lg-4 ml-lg-5 h-100">
+        <div class="row">
+            <div class="col-xl-10 col-lg-9 col-md-8 ml-auto my-auto">
+                <div class="row border-top pt-3">
+                    <div class="col-lg-6 text-center">
+                        <ul class="list-inline">
+                            <li class="list-inline-item mr-2">
+                                <a href="#" class="text-dark">CMS</a>
+                            </li>
+                            <li class="list-inline-item mr-2">
+                                <a href="#" class="text-dark">About</a>
+                            </li>
+                            <li class="list-inline-item mr-2">
+                                <a href="#" class="text-dark">Contact</a>
+                            </li>
+                            <li class="list-inline-item mr-2">
+                                <a href="#" class="text-dark">Blog</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <p>&copy; 2020 Copyright. Made with <i class="fa fa-heart text-danger"></i> by <span class="text-success">CMS</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--End of footer-->

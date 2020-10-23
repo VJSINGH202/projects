@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${pagetitle}</title> 
+    <link rel="stylesheet" href="<%=application.getContextPath()%>/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<%=application.getContextPath()%>/css/bootstrap.css">
+    <link rel="stylesheet" href="<%=application.getContextPath()%>/css/style.css">
+    <link rel="shortcut icon" type="image/png" href="<%=application.getContextPath()%>/images/favicon.png">
+</head>

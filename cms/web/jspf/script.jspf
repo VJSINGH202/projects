@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/ckeditor.js"></script>
+  <script src="js/script.js"></script>
+  <!--<script>
+       tinymce.init({selector:'textarea'});
+  </script>-->
